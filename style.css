@@ -1,0 +1,14 @@
+.BottomButton{
+    position:absolute;
+    bottom: 15%;
+    right:10%;
+}
+
+.imagine {
+    width: 200px;
+}
+.right{
+    position:absolute;
+    left:20%;
+
+}
